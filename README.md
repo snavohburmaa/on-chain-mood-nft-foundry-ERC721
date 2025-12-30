@@ -22,7 +22,7 @@ forge install
 
 ## Usage
 
-### Run Tests
+### Run Test
 
 ```bash
 forge test
